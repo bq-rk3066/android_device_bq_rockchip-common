@@ -41,9 +41,6 @@ PRODUCT_COPY_FILES += \
     $(COMMON_PATH)/prebuilt/config.txt:system/etc/firmware/config.txt \
     $(COMMON_PATH)/prebuilt/media_codecs.xml:system/etc/media_codecs.xml \
     $(COMMON_PATH)/prebuilt/nvram_RK903_26M.cal:system/etc/firmware/nvram_RK903_26M.cal \
-    $(COMMON_PATH)/prebuilt/packages-compat.xml:system/etc/packages-compat.xml \
-    $(COMMON_PATH)/prebuilt/packages-composer.xml:system/etc/packages-composer.xml \
-    $(COMMON_PATH)/prebuilt/performance_info.xml:system/etc/performance_info.xml \
     $(COMMON_PATH)/prebuilt/rk29-keypad.kl:/system/usr/keylayout/rk29-keypad.kl \
     $(COMMON_PATH)/prebuilt/rk3x:system/bin/rk3x
 
